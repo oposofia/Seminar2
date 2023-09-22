@@ -1,0 +1,15 @@
+C:\Users\sko88\OneDrive\Рабочий стол\GB\Seminar2\Taask12\bin\Debug\net6.0\Taask12.exe
+C:\Users\sko88\OneDrive\Рабочий стол\GB\Seminar2\Taask12\bin\Debug\net6.0\Taask12.deps.json
+C:\Users\sko88\OneDrive\Рабочий стол\GB\Seminar2\Taask12\bin\Debug\net6.0\Taask12.runtimeconfig.json
+C:\Users\sko88\OneDrive\Рабочий стол\GB\Seminar2\Taask12\bin\Debug\net6.0\Taask12.dll
+C:\Users\sko88\OneDrive\Рабочий стол\GB\Seminar2\Taask12\bin\Debug\net6.0\Taask12.pdb
+C:\Users\sko88\OneDrive\Рабочий стол\GB\Seminar2\Taask12\obj\Debug\net6.0\Taask12.csproj.AssemblyReference.cache
+C:\Users\sko88\OneDrive\Рабочий стол\GB\Seminar2\Taask12\obj\Debug\net6.0\Taask12.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sko88\OneDrive\Рабочий стол\GB\Seminar2\Taask12\obj\Debug\net6.0\Taask12.AssemblyInfoInputs.cache
+C:\Users\sko88\OneDrive\Рабочий стол\GB\Seminar2\Taask12\obj\Debug\net6.0\Taask12.AssemblyInfo.cs
+C:\Users\sko88\OneDrive\Рабочий стол\GB\Seminar2\Taask12\obj\Debug\net6.0\Taask12.csproj.CoreCompileInputs.cache
+C:\Users\sko88\OneDrive\Рабочий стол\GB\Seminar2\Taask12\obj\Debug\net6.0\Taask12.dll
+C:\Users\sko88\OneDrive\Рабочий стол\GB\Seminar2\Taask12\obj\Debug\net6.0\refint\Taask12.dll
+C:\Users\sko88\OneDrive\Рабочий стол\GB\Seminar2\Taask12\obj\Debug\net6.0\Taask12.pdb
+C:\Users\sko88\OneDrive\Рабочий стол\GB\Seminar2\Taask12\obj\Debug\net6.0\Taask12.genruntimeconfig.cache
+C:\Users\sko88\OneDrive\Рабочий стол\GB\Seminar2\Taask12\obj\Debug\net6.0\ref\Taask12.dll
