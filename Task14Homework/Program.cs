@@ -23,4 +23,4 @@ int NumberThird(int num)
     return remains;
 }
 
-int number3digit = number / 10;
+
